@@ -1,0 +1,9 @@
+[submodule "external/sf2dlib"]
+	path = external/sf2dlib
+	url = https://github.com/xerpi/sf2dlib.git
+[submodule "external/sftdlib"]
+	path = external/sftdlib
+	url = https://github.com/xerpi/sftdlib.git
+[submodule "external/sfillib"]
+	path = external/sfillib
+	url = https://github.com/xerpi/sfillib.git
